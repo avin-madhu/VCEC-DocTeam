@@ -8,7 +8,7 @@
 
 
 
-<div align="center" ><img src="assets/logoImage.jpg" width=250 ></div>
+<div align="center" ><img src="assets/linkedIn.gif" width=250 ></div>
 
 ## <span style="color: #62b7fc" >Overview</span>
 
@@ -53,4 +53,6 @@ LinkedIn launched its carousel ads feature in 2018, making it the newest additio
 
 In conclusion, LinkedIn is a prominent professional networking platform that facilitates connections and interactions among individuals, businesses, and organizations. It serves as a virtual hub for professionals to showcase their work experience, skills, and accomplishments through detailed profiles. LinkedIn offers various features, including job search functionalities, content sharing capabilities, group discussions, and learning resources.
 
+<br>
 
+<div align="center" ><img width=200 src="assets/wave.gif"> </div>
